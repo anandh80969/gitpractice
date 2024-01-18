@@ -1,8 +1,8 @@
-def add(a,b,e):
-  c = a + b + e
+def add(a,b,e,f):
+  c = a + b + e + f
   return c
 
 
-d = add(3,4,5)
+d = add(3,4,5,8)
 print(d)
   
